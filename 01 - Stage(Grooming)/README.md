@@ -2,11 +2,11 @@
 ### Basic Problems List:
 
 1.  [Java Hello world](https://github.com/CodeMechanix/Coding-Interview-Questions-Practice/blob/main/01%20-%20Stage(Grooming)/AllCode/HelloWorld.java)
-2.  Print Integer
-3.  Addition of two numbers
-4.  Even odd
-5.  Add, subtract, multiply and divide
-6.  Check vowel
+2.  [Print Integer](https://github.com/CodeMechanix/Coding-Interview-Questions-Practice/blob/main/01%20-%20Stage(Grooming)/AllCode/PrintAnInt.java)
+3.  [Addition of two numbers](https://github.com/CodeMechanix/Coding-Interview-Questions-Practice/blob/main/01%20-%20Stage(Grooming)/AllCode/AddTwoNums.java)
+4.  [Even odd](https://github.com/CodeMechanix/Coding-Interview-Questions-Practice/blob/main/01%20-%20Stage(Grooming)/AllCode/EvenOrOdd.java)
+5.  [Add, subtract, multiply and divide](https://github.com/CodeMechanix/Coding-Interview-Questions-Practice/blob/main/01%20-%20Stage(Grooming)/AllCode/Calculation.java)
+6.  [Check vowel](https://github.com/CodeMechanix/Coding-Interview-Questions-Practice/blob/main/01%20-%20Stage(Grooming)/AllCode/CheckVowelOrNot.java)
 7.  Roots of quadratic equation 
 8.  Leap year program in Java
 10. Sum of digits
