@@ -1,7 +1,7 @@
 
 ### Basic Problems List:
 
-1.  Java Hello world
+1.  [Java Hello world](https://github.com/CodeMechanix/Coding-Interview-Questions-Practice/blob/main/01%20-%20Stage(Grooming)/AllCode/HelloWorld.java)
 2.  Print Integer
 3.  Addition of two numbers
 4.  Even odd
